@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App,.Time {
+  background: repeating-radial-gradient(orange, yellow, transparent);
+  background-color: orange;
+}
+
+
+
+h1 {
+  width: 40%;
+  margin: auto auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: absolute;
+  font-size: 3rem;
+  top: 250px;
+  left: 350px;
+}
